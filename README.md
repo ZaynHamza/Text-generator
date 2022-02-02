@@ -1,5 +1,5 @@
 # Text-generator
-An NLP project, a sentences generator from stories or novels as a source to the model.
+An NLP project, a sentences generator from stories or novels as a source to the model using NLTK.
 
 The default source text file is a sample from the Game of Thrones script.
 
