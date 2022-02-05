@@ -10,4 +10,6 @@ I recommend to download the file and run it in IDE.
 # What I learned:
 • Regexp module.
 
+• NLTK
+
 • collection module, defaultdict and Counter.
