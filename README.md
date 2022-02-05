@@ -8,4 +8,6 @@ You can experiment with any text script you want, only put the file in the same 
 I recommend to download the file and run it in IDE.
 
 # What I learned:
-•
+• Regexp module.
+
+• collection module, defaultdict and Counter.
